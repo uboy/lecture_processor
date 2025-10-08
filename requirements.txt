@@ -1,0 +1,6 @@
+openai-whisper
+ffmpeg-python
+requests
+tqdm
+python-pptx
+PyMuPDF
